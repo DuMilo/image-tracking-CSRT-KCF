@@ -58,9 +58,3 @@ This project focuses on developing robust object tracking solutions using CSRT (
 - `utils.py` - Helper functions for video processing and visualization
 - `requirements.txt` - Project dependencies
 - `notebooks/` - Jupyter notebooks for experimentation
-
-## License
-This project is open source and available under the MIT License.
-
-## Author
-DuMilo
